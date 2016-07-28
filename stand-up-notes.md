@@ -1,5 +1,11 @@
 # Bi-Weekly Stand up Meeting
 
+## 8-10-16
+
+* Turner Infrastructure status
+
+--------------
+
 ## 7-27-16
 
 * Good Bye Shawn
@@ -13,7 +19,7 @@
 #### Ambitions
 
 * Turner Infrastructure
-  * begin moving GitHub
+  * begin moving GitHub/VSO
   * setup in CI
   * make CI publish to Nuget
   * Jay to figure out how to VSO deploy to Nuget
