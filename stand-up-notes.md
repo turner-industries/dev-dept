@@ -3,13 +3,22 @@
 ## 8-10-16
 
 * Turner Infrastructure status
+* Slack
+    * VSO
+    * Github
+* Matthew Puneky
+* CI NuGet?
+
+#### Ambitions
+
+* Come together on 1 set of linting rules
+    * Put in Github
 
 --------------
 
 ## 7-27-16
 
 * Good Bye Shawn
-* CI blog
 * GIT - status
   * CraftTrax hit snag b/c separate projects
 * Working on dev [workflows](https://github.com/turner-industries/dev-dept)
@@ -23,6 +32,7 @@
   * setup in CI
   * make CI publish to Nuget
   * Jay to figure out how to VSO deploy to Nuget
+* CI blog
 
 -----------
 
