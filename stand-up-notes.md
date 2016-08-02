@@ -8,6 +8,10 @@
     * Github
 * Matthew Puneky
 * CI NuGet?
+* Service account? (detaching from personal user accounts)
+    * Github
+    * Slack
+    * NuGet
 
 #### Ambitions
 
