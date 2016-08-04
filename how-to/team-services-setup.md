@@ -95,3 +95,5 @@ Set the AUTH variable to ```/U:<Web_Deploy_UserName> /P:<Password> /A:Basic```
     IMPORTANT: Make sure you click the padlock on AUTH variable
 
 The rest should look like (picture below):
+
+All done! 
