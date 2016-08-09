@@ -2,7 +2,9 @@
 # Dev How-To
 
 * [Git Feature Branch Workflow](how-to/git-workflow.md)
-* [WIP: Team Services Setup](how-to/team-services-setup.md)
+* Turner Infrastructure
+  * [Setup NuGet](how-to/CI-Nuget/ci-nuget.md)
+  * [WIP: Team Services Setup](how-to/team-services-setup.md)
 
 # Misc
 
