@@ -3,10 +3,11 @@
 ## 8-10-16
 
 * Matthew Puneky
+* Brandon Cornett
+* WinTake
 * Slack
     * VSO - build vs chat
     * Github
-* Brandon Cornett
 * CI (Turner Infrastructure status)
     * NuGet
         * Identify
@@ -14,10 +15,15 @@
     * Build steps
     * Resharper
 * Service account? (detaching from personal user accounts)
-    * Github
+    * GitHub
     * Slack
     * NuGet
-* WinTake
+* Application Deploy Structure
+    * FE & BE
+* How-to
+    * Production Deployments
+* Designer
+* Simple Injector
 
 #### Ambitions
 
