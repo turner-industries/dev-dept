@@ -2,16 +2,22 @@
 
 ## 8-10-16
 
-* Turner Infrastructure status
-* Slack
-    * VSO
-    * Github
 * Matthew Puneky
-* CI NuGet?
+* Slack
+    * VSO - build vs chat
+    * Github
+* Brandon Cornett
+* CI (Turner Infrastructure status)
+    * NuGet
+        * Identify
+        * Migrate
+    * Build steps
+    * Resharper
 * Service account? (detaching from personal user accounts)
     * Github
     * Slack
     * NuGet
+* WinTake
 
 #### Ambitions
 
