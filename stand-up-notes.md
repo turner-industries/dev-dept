@@ -1,9 +1,46 @@
 # Bi-Weekly Stand up Meeting
 
+## 8-10-16
+
+* People
+    * Matthew Puneky
+    * Brandon Cornett
+    * Designer?
+* Projects
+    * WinTake
+* Tools
+    * Slack
+        * VSO - build vs chat
+        * Github
+    * CI (Turner Infrastructure status)
+        * NuGet
+        * Build steps
+        * Resharper
+* Process
+    * Service account? (detaching from personal user accounts)
+        * GitHub
+        * Slack
+    * NuGet / GitHub
+        * Identify
+        * Migrate
+* Tech
+    * Application Deploy Structure
+        * FE & BE
+    * Simple Injector
+* How-to
+    * Production Deployments
+* New Dev Side Project Tutorial
+
+#### Ambitions
+
+* Come together on 1 set of linting rules
+    * Put in Github
+
+--------------
+
 ## 7-27-16
 
 * Good Bye Shawn
-* CI blog
 * GIT - status
   * CraftTrax hit snag b/c separate projects
 * Working on dev [workflows](https://github.com/turner-industries/dev-dept)
@@ -13,10 +50,11 @@
 #### Ambitions
 
 * Turner Infrastructure
-  * begin moving GitHub
+  * begin moving GitHub/VSO
   * setup in CI
   * make CI publish to Nuget
   * Jay to figure out how to VSO deploy to Nuget
+* CI blog
 
 -----------
 

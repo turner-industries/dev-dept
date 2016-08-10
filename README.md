@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/turner-industries/dev-dept.png?label=ready&title=Ready)](https://waffle.io/turner-industries/dev-dept)
+
 # Dev How-To
 
 * [Git Feature Branch Workflow](how-to/git-workflow.md)
