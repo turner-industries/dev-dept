@@ -1,5 +1,17 @@
 # Bi-Weekly Stand up Meeting
 
+## 8-24-16
+
+* People
+    * Brandon Cornett
+    * Designer?
+
+#### Ambitions
+
+* New Dev Side Project Tutorial
+
+--------------
+
 ## 8-10-16
 
 * People
@@ -29,7 +41,6 @@
     * Simple Injector
 * How-to
     * Production Deployments
-* New Dev Side Project Tutorial
 
 #### Ambitions
 
