@@ -3,12 +3,24 @@
 ## 8-24-16
 
 * People
+    * Flood requests/needs 
     * Brandon Cornett
     * Designer?
+
+* Unification 
+    * Simple Injector
+    * Uniform interface architecture
+
+* How-to
+    * Production Deployments (continued)
 
 #### Ambitions
 
 * New Dev Side Project Tutorial
+* Come together on 1 set of R# rules
+    * Put in Github
+* Come together on 1 set of linting rules
+    * Put in Github
 
 --------------
 
