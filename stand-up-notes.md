@@ -1,5 +1,15 @@
 # Bi-Weekly Stand up Meeting
 
+## 9-07-16
+
+* New Dev Side Project Tutorial
+  * Starter: [react-slingshot](https://github.com/coryhouse/react-slingshot)
+* Come together on 1 set of [linting rules](js/.eslintrc)
+
+#### Ambitions
+
+--------------
+
 ## 8-24-16
 
 * People
