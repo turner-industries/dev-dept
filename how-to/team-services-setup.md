@@ -2,36 +2,60 @@
 
 ## Step 1: Create IIS Web Site
 
+  ![][1.1]
+
+  ![][1.2]
+
 Port 80
 Ignore Warning about Port 80
 Set your folder path
 
 ## Step 2: Setup Bindings on Port 80
 
+  ![][1.3]
+
 Ensure the site is started
 
 ## Step 3: Set up Application Pool Identity to run as a service account
 
+  ![][1.4]
+
+  ![][1.6]
+
+  ![][1.5]
+
 ## Step 4: Set up IIS Site for Web Deploy
+
+  ![][1.7]
 
 ## Set up Web Deploy User under IIS Manager Permissions
 
-   Allow Publish of Web Deploy
+  ![][1.11]
+
+Allow Publish of Web Deploy
 
 ## Step 5: Set folder permissions  
 
 * Ensure Web Deployer has full access
-* Ensure Service account has Read Acess
+
+  ![][1.10]
+
+* Ensure Service account has Read Access
+
+  ![][1.12]
 
 # Setting Up Your Web Project for Tokenization
 
 ## Step 1: Download pre-reqs
 * Download Richard Fennell's Parameters.Xml Generator extension from Visual Studio's Extensions and Updates.
 
+  ![][2.1]
+
 ## Step 2: Tokenize the areas of your web.config
 
 * Right-click the Web.config file and select the GenerateParameters.xml file
 option.  This will create a Parameters.xml file in your project
+
 
 * Add a Web.Base.config file at the same level as your Web.config file.  Copy
 contents of Web.config into Web.Base.config
@@ -45,7 +69,12 @@ contents of Web.config into Web.Base.config
   ```
 * Create Web Deploy Package
 
-you need that will be tokenized on release builds with double underscores (__).  
+  ![][2.2]
+
+  ![][2.3]
+
+  ![][2.4]
+you need that will be tokenized on release builds with double underscores.  
 
 # Setting up Team Services Build Definitions
 
@@ -59,13 +88,19 @@ you need that will be tokenized on release builds with double underscores (__).
       /p:DeployOnBuild=true /p:PublishProfile=tokenized /p:PackageLocation=$(build.stagingDirectory)
   * Configure repository
 
+  ![][2.5]
+
   * Configure triggers for CI build
+
+  ![][2.6]
 
   * Queue a build manually and confirm the artifacts downloaded: (picture below)
     NOTE: The main things to look for are:
-    * <solution_name>.deploy.cmd
-    * <solution_name>.SetParameters.xml
-    * <solution_name>.<web_project_name>.zip
+    * ```<solution_name>.deploy.cmd```
+    * ```<solution_name>.SetParameters.xml```
+    * ```<solution_name>.<web_project_name>.zip```
+
+    ![][2.7]
 
 # Setting up Team Services Release Definitions
 
@@ -76,9 +111,10 @@ you need that will be tokenized on release builds with double underscores (__).
   * Set "Root Directory" to ```$(System.DefaultWorkingDirectory)/<your linked artifact name>/drop```
   * Set Target Files to ```**\*.SetParameters.xml```
 
-
     IMPORTANT: Ensure in the advanced tab of the Replace Tokens task is
-    using double underscores (__) for prefix AND postfix.
+    using double underscores for prefix AND postfix.
+
+    ![][2.8]
 
 * Add the Batch Script Task
   * Set the Path to:
@@ -86,7 +122,7 @@ you need that will be tokenized on release builds with double underscores (__).
   ```$(System.DefaultWorkingDirectory)/<your linked artifact alias>/drop/<your_web_project>.deploy.cmd```
 
   * Set Arguments to: ```/Y -allowUntrusted $(DEPLOY_URL) $(AUTH)```.  
-  DEPLOY_URL and AUTH are variables we will configure in the next step.
+  DEPLOY_URL and AUTH are variables we will configure in the next step.  
 
 ## Step 3: Configure Environment Variables
 
@@ -96,4 +132,31 @@ Set the AUTH variable to ```/U:<Web_Deploy_UserName> /P:<Password> /A:Basic```
 
 The rest should look like (picture below):
 
-All done! 
+All done!
+
+<!-- Image References -->
+
+[1.1]: /resources/IISSiteCreation1.png
+[1.2]: /resources/IISSiteCreation2.png
+[1.3]: /resources/IISSiteCreation3.png
+[1.4]: /resources/Img4.png
+[1.5]: /resources/Img5.png
+[1.6]: /resources/Img6.png
+[1.7]: /resources/Img7.png
+[1.8]: /resources/Img8.png
+[1.9]: /resources/Img9.png
+[1.10]: /resources/Img10.png
+[1.11]: /resources/Img11.png
+[1.12]: /resources/Img12.png
+[2.1]: /resources/Img13.png
+[2.2]: /resources/Img14.png
+[2.3]: /resources/Img15.png
+[2.4]: /resources/Img17.png
+[2.5]: /resources/Img16.png
+[2.6]: /resources/Img18.png
+[2.7]: /resources/Img19.png
+[2.8]: /resources/Img20.png
+[2.9]: /resources/Img21.png
+[2.10]: /resources/Img22.png
+[2.11]: /resources/Img23.png
+[2.12]: /resources/Img24.png
