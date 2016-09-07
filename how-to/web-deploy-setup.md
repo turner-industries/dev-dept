@@ -1,4 +1,4 @@
-# SETTING UP IIS FOR WEB Deploy
+# Setting Up IIS and Visual Studio Team Services for Web Deploy
 
 ## Step 1: Create IIS Web Site
 
@@ -135,28 +135,27 @@ The rest should look like (picture below):
 All done!
 
 <!-- Image References -->
-
-[1.1]: /resources/IISSiteCreation1.png
-[1.2]: /resources/IISSiteCreation2.png
-[1.3]: /resources/IISSiteCreation3.png
-[1.4]: /resources/Img4.png
-[1.5]: /resources/Img5.png
-[1.6]: /resources/Img6.png
-[1.7]: /resources/Img7.png
-[1.8]: /resources/Img8.png
-[1.9]: /resources/Img9.png
-[1.10]: /resources/Img10.png
-[1.11]: /resources/Img11.png
-[1.12]: /resources/Img12.png
-[2.1]: /resources/Img13.png
-[2.2]: /resources/Img14.png
-[2.3]: /resources/Img15.png
-[2.4]: /resources/Img17.png
-[2.5]: /resources/Img16.png
-[2.6]: /resources/Img18.png
-[2.7]: /resources/Img19.png
-[2.8]: /resources/Img20.png
-[2.9]: /resources/Img21.png
-[2.10]: /resources/Img22.png
-[2.11]: /resources/Img23.png
-[2.12]: /resources/Img24.png
+[1.1]: resources/WebDeploySetupImages/IISSiteCreation1.png
+[1.2]: resources/WebDeploySetupImages/IISSiteCreation2.png
+[1.3]: resources/WebDeploySetupImages/IISSiteCreation3.png
+[1.4]: resources/WebDeploySetupImages/Img4.png
+[1.5]: resources/WebDeploySetupImages/Img5.png
+[1.6]: resources/WebDeploySetupImages/Img6.png
+[1.7]: resources/WebDeploySetupImages/Img7.png
+[1.8]: resources/WebDeploySetupImages/Img8.png
+[1.9]: resources/WebDeploySetupImages/Img9.png
+[1.10]: resources/WebDeploySetupImages/Img10.png
+[1.11]: resources/WebDeploySetupImages/Img11.png
+[1.12]: resources/WebDeploySetupImages/Img12.png
+[2.1]: resources/WebDeploySetupImages/Img13.png
+[2.2]: resources/WebDeploySetupImages/Img14.png
+[2.3]: resources/WebDeploySetupImages/Img15.png
+[2.4]: resources/WebDeploySetupImages/Img17.png
+[2.5]: resources/WebDeploySetupImages/Img16.png
+[2.6]: resources/WebDeploySetupImages/Img18.png
+[2.7]: resources/WebDeploySetupImages/Img19.png
+[2.8]: resources/WebDeploySetupImages/Img20.png
+[2.9]: resources/WebDeploySetupImages/Img21.png
+[2.10]: resources/WebDeploySetupImages/Img22.png
+[2.11]: resources/WebDeploySetupImages/Img23.png
+[2.12]: resources/WebDeploySetupImages/Img24.png
