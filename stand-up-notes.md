@@ -7,6 +7,7 @@
 * Come together on 1 set of [linting rules](js/.eslintrc)
 * Improve .gitignore / remove files from repository
 * Discuss CI process
+* Fix NuGet steps
 
 #### Ambitions
 
