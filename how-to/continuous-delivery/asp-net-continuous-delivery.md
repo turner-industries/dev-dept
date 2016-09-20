@@ -67,6 +67,14 @@
 
     ![Delete Steps][delete-steps]
 
+### Add Resharper Code Quality Step
+1. Add the "Resharper Code Quality Analysis" step from the task catalogue under the "Build" tab
+
+    ![Add Resharper Step][resharper]
+2. Set the "Path to .sln or .csproj file" to `\<ProjectName>.sln`. Insert your project name.
+
+    ![Set Resharper Settings][resharper-settings]
+
 ### Add Push Package to Octopus Step
 1. Add the "Push Package(s) to Octopus" step from the task catalogue under the "Package" tab
 
@@ -85,14 +93,6 @@
 4. Set "Release Number" to `$(Build.BuildNumber)`
 
     ![Set Create Octopus Release Settings][release-octopus-settings]
-
-### Add Resharper Code Quality Step
-1. Add the "Resharper Code Quality Analysis" step from the task catalogue under the "Build" tab
-
-    ![Add Resharper Step][resharper]
-2. Set the "Path to .sln or .csproj file" to `\*.sln`
-
-    ![Set Resharper Settings][resharper-settings]
 
 ### Set Build Number Format
 1. Go to the "General" tab and set the "Build number format" to `1.0$(rev:.r)`. This will have to be incremented manually when you want to bump the version.
