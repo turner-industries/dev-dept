@@ -6,6 +6,9 @@
 * Turner Infrastructure
   * [Setup NuGet](how-to/CI-Nuget/ci-nuget.md)
   * [WIP: Team Services Setup](how-to/team-services-setup.md)
+* Continuous Integration / Delivery
+  * [Setup ASP.NET Site](how-to/continuous-delivery/asp-net-continuous-delivery.md)
+  * [Setup Web Site (Aurelia, React, Angular, etc.)](how-to/continuous-delivery/web-continuous-delivery.md)
 
 # Misc
 
