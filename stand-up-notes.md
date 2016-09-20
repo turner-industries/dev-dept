@@ -1,5 +1,20 @@
 # Bi-Weekly Stand up Meeting
 
+## 09-21-16
+
+* Remote constraints
+* Unification
+    * Simple Injector
+    * Uniform interface architecture
+    * Nuget
+    * Octopus 
+* How-to
+    * Production Deployments (continued)
+
+#### Ambitions
+
+--------------
+
 ## 9-07-16
 
 * New Dev Side Project Tutorial
