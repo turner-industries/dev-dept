@@ -3,16 +3,21 @@
 ## 09-21-16
 
 * Remote constraints
+  * Have clear direction on what you want to achieve on remote day
+  * Not whole team on same day
+  * Black Ops
 * Unification
-    * Simple Injector
     * Uniform interface architecture
-    * Nuget
-    * Octopus
+    * {Verb}{Subject}Request
+    * NuGet
     * Keyboard shortcuts / IDE settings
+    * Push atom settings
 * How-to
     * Production Deployments (continued)
 
-#### Ambitions
+#### Done
+* Simple Injector
+* Octopus
 
 --------------
 
@@ -24,8 +29,6 @@
 * Improve .gitignore / remove files from repository
 * Discuss CI process
 * Fix NuGet steps
-
-#### Ambitions
 
 --------------
 
