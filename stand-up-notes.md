@@ -1,5 +1,26 @@
 # Bi-Weekly Stand up Meeting
 
+## 09-21-16
+
+* Remote constraints
+  * Have clear direction on what you want to achieve on remote day
+  * Not whole team on same day
+  * Black Ops
+* Unification
+    * Uniform interface architecture
+    * {Verb}{Subject}Request
+    * NuGet
+    * Keyboard shortcuts / IDE settings
+    * Push atom settings
+* How-to
+    * Production Deployments (continued)
+
+#### Done
+* Simple Injector
+* Octopus
+
+--------------
+
 ## 9-07-16
 
 * New Dev Side Project Tutorial
@@ -8,8 +29,6 @@
 * Improve .gitignore / remove files from repository
 * Discuss CI process
 * Fix NuGet steps
-
-#### Ambitions
 
 --------------
 
