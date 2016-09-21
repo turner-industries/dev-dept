@@ -7,7 +7,8 @@
     * Simple Injector
     * Uniform interface architecture
     * Nuget
-    * Octopus 
+    * Octopus
+    * Keyboard shortcuts / IDE settings
 * How-to
     * Production Deployments (continued)
 
