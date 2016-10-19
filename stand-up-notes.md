@@ -1,5 +1,34 @@
 # Bi-Weekly Stand up Meeting
 
+## 10-19-16
+
+* Unification
+  * Sub DTOs - inherit from base DTOs
+    * WinTake - todo
+* better identify version in environments
+  * git tagging
+  * version info in footer
+* learning project
+  * every other Friday - direction/recap
+* Speaking
+  * Justin - Activate Conf [Nov 3]
+  * Brandon - Dev Days [Nov 4]
+  * Other - BRDNUG, RefreshBR, H-DNUG
+  * Can become hammond dot net user group meeting
+
+--------------
+
+## 10-05-16
+
+* Unification
+  * Sub DTOs - inherit from base DTOs
+* Forest
+  * Unification
+  * Front-end `route/component` structure
+  * Mobile team may exist in the future
+
+--------------
+
 ## 09-21-16
 
 * Remote constraints
