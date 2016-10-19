@@ -5,16 +5,16 @@
 * Unification
   * Sub DTOs - inherit from base DTOs
     * WinTake - todo
-* better identify version in environments
-  * git tagging
-  * version info in footer
-* learning project
-  * every other Friday - direction/recap
+* Better identify versions in environments
+  * Git tagging for current environments
+  * Version info in footer
+* Learning project
+  * Every other Friday - direction/recap
 * Speaking
   * Justin - Activate Conf [Nov 3]
   * Brandon - Dev Days [Nov 4]
-  * Other - BRDNUG, RefreshBR, H-DNUG
-  * Can become hammond dot net user group meeting
+  * Other - BRDNUG, Refresh BR, HDNUG
+  * Can take over and start back up Hammond .NET User Group
 
 --------------
 
