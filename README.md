@@ -3,10 +3,8 @@
 # Dev How-To
 
 * [Git Feature Branch Workflow](how-to/git-workflow.md)
-* Turner Infrastructure
-  * [Setup NuGet](how-to/CI-Nuget/ci-nuget.md)
-  * [WIP: Team Services Setup](how-to/team-services-setup.md)
 * Continuous Integration / Delivery
+  * [Setup NuGet](how-to/ci-nuget.md)
   * [Setup ASP.NET Site](how-to/continuous-delivery/asp-net-continuous-delivery.md)
   * [Setup Web Site (Aurelia, React, Angular, etc.)](how-to/continuous-delivery/web-continuous-delivery.md)
 
