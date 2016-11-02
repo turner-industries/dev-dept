@@ -1,5 +1,30 @@
 # Bi-Weekly Stand up Meeting
 
+## 11-02-16
+
+* XLabs
+  * Jay proposed contributing to the Xamarin community through our own library of components
+* Southeastern Endeavors
+  * Attend more class presentations
+  * Present at 285 / 383
+    * How to do MVC, Git, etc.
+  * Hammond .NET User Group
+    * Look for someone to run it as a student
+    * Brandon will ask Dr. Alkadi about this
+* Speaking
+  * Justin - Activate Conf [Nov 3]
+  * Brandon - Dev Days [Nov 4]
+  * Some of us should plan on speaking at SQL Saturday Next Year
+* Learning Project
+  * Coming along - Piknik worked on it this past week
+    * Has some ideas about endpoints and structure
+* Mediator
+  * WinTake is going sprint by sprint
+  * Jay is working on Mediator for CraftTrax
+* We all learned something none of the others knew
+
+--------------
+
 ## 10-19-16
 
 * Unification
