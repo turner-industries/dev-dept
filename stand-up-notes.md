@@ -1,5 +1,20 @@
 # Bi-Weekly Stand up Meeting
 
+## 11-16-16
+
+* Dev Training Days
+  * Lunch and learn
+  * Add anything you'd like to discuss to Trello card
+  * Have a planning session to go over agenda
+* Command / Query Architecture
+  * Discuss with Donnell and Piknik
+  * Consistent response types
+* Add ResponseTypes to API methods for Swagger
+* Checkmarx
+  * Scans code and finds potential security holes
+  * Considering purchasing
+  * Nightly build (1-3 hours per scan)
+
 ## 11-02-16
 
 * XLabs
