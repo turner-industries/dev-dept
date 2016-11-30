@@ -1,5 +1,13 @@
 # Bi-Weekly Stand up Meeting
 
+## 11-30-16
+* Dev Training Days
+  * Unit Testing session first
+    * Come up with requirements for next meeting
+* Commmand / Query Architecture
+  * Brandon is looking at speed issues
+* Checkmarx coming tomorrow
+
 ## 11-16-16
 
 * Dev Training Days
