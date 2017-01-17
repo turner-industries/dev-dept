@@ -1,5 +1,17 @@
 # Bi-Weekly Stand up Meeting
 
+## 1-11-17
+
+* Following through
+    * Less ambitious goals = more probable
+* Videos at lunch
+    * Will start out with 2 per week watching React videos
+* Potential improvements
+    * Shadowing other team coding sessions
+    * Maybe assigning an article or a book to read and reviewing at future stand-ups
+    
+-------------
+
 ## 11-30-16
 * Dev Training Days
   * Unit Testing session first
@@ -7,6 +19,8 @@
 * Commmand / Query Architecture
   * Brandon is looking at speed issues
 * Checkmarx coming tomorrow
+
+--------------
 
 ## 11-16-16
 
@@ -22,6 +36,8 @@
   * Scans code and finds potential security holes
   * Considering purchasing
   * Nightly build (1-3 hours per scan)
+
+--------------
 
 ## 11-02-16
 
