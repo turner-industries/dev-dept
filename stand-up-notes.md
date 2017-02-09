@@ -1,5 +1,25 @@
 # Bi-Weekly Stand up Meeting
 
+## 2-9-17
+
+* Code Reviews
+    * Going great; going to continue
+    * Next code review will be Jay
+    * Piknik will schedule this for 2 weeks from now
+* Lunch and Learn
+    * Justin will schedule this
+* SQL Saturday
+    * Going to try to get a bunch of sessions this year, potentially our own room
+    * Bring a topic you'd like to present to the stand-up next time
+* IMediator / Helpers / Handler injections
+    * Injecting IRequestHandlers is the way to go
+* Hangfire
+    * Need to add BackgroundMediator to WinTake - maybe next Friday
+* Group Reading / Watching
+    * Can do this at lunch if someone presents a topic
+
+-------------
+
 ## 1-11-17
 
 * Following through
