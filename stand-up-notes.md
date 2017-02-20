@@ -1,5 +1,9 @@
 # Bi-Weekly Stand up Meeting
 
+## 2-23-17
+
+* Logging solution?
+
 ## 2-9-17
 
 * Code Reviews
