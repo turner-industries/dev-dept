@@ -2,7 +2,30 @@
 
 ## 2-23-17
 
-* Logging solution?
+* DevOps Day
+   * Thursday - March 2nd
+   * Potentially 11-1
+* Logging solution
+   * WinTake is going to try SeriLog (ILogger.Log())
+   * Justin is going to look into the free plan of exceptionless
+   * We'll review the usage at a later date
+   * Potentially stand up another VM or use an existing that Forest knows about later on
+* SQL Saturday
+   * Ideas
+      * Piknik - Parallel programming
+      * Jay - Still thinking
+      * Justin - React Native
+      * Forest - Developing faster - automation / snippets / templates / etc., or Redux
+      * Brandon - .NET Core or CI & CD w/ VSTS & Azure IX
+* Standards
+   * Whitespace
+   * Naming conventions
+   * Commenting
+   * Curly braces - "{ }"
+   * Implicit vs explicit variables
+   * Regions
+   * Enums
+   * Private fields - "_"
 
 ## 2-9-17
 
