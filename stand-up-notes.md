@@ -1,5 +1,48 @@
 # Bi-Weekly Stand up Meeting
 
+## 3-9-17
+
+* DevOps Day Follow-up
+  * Potentially do hands on exercises
+  * Good idea in general
+  * Open it up to the rest of the dev department
+  * Justin is up next
+    * March 16 - 11 to 1
+    * Javascript async stuff
+* SQL Saturday
+  * May 30th is deadline to register
+* Logging
+  * WinTake is going to look into the free plan of exceptionless
+    * Look in to using Serilog as the logger
+  * We'll review the usage at a later date to figure out which version to get
+* Potentially run automatic formatting check on CI
+  * ReSharper
+  * StyleCop
+  * HoundCI
+  * ESLint
+* Standards
+  * Avoid JsonIgnore when possible, as well as other prop attributes (required, validation, etc.)
+  * Whitespace
+    * Horizontal
+      * Front end
+        * 2 spaces
+      * Back end
+        * 4 spaces
+    * Vertical
+      * No more than 1 blank line
+      * Break up in to logical blocks
+  * Naming conventions
+    * Don't use all uppercase abbreviations
+  * Commenting
+  * Curly braces
+    * "{ }" for all if statements
+  * Implicit vs explicit variables
+  * Regions
+    * No regions
+  * Enums
+  * Private fields
+    * Use _ for class level private fields
+    
 ## 2-23-17
 
 * DevOps Day
