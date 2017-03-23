@@ -1,5 +1,46 @@
 # Bi-Weekly Stand up Meeting
 
+## 3-23-17
+
+* Standards
+  * Need to create a separate md file for these
+  * Look at eslint files next week
+  * Naming conventions
+    * Back End
+      * Classes, Methods - Pascal
+      * Params, fields - Camel
+    * ~Front End~ React
+      * Files
+        * Components - Pascal
+        * All others - Kebab
+      * Content
+        * Classes / Components - Pascal
+        * Variables - Camel
+        * Methods
+          * Non-lifecycle - _ + Camel
+          * Lifecycle - Camel
+  * Best Practices
+    * Bind class methods explictly in constructor or use @autobind decorator
+* JS Workshop Follow-up
+  * Went well - learned a lot
+  * Maybe add to our Github
+  * Add participant exercises
+  * Forest volunteered to go next on ES6
+    * Around April 11th
+* SQL Saturday
+  * Jay has submitted his talk
+  * Brandon will be submitting today
+  * Forest, Matthew, and Justin will be submitting soon
+* Logging
+  * Forest has an example project set up with logging of our mediator pipeline
+  * Need to set up regex matching to cleanse sensitive information
+    * Passwords
+    * Socials
+    * Pay Rates
+* Mediator
+  * Async mediator only
+  * Custom mediator going forward on new projects
+
 ## 3-9-17
 
 * DevOps Day Follow-up
