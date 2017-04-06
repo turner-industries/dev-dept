@@ -1,5 +1,24 @@
 # Bi-Weekly Stand up Meeting
 
+## 4-6-17
+
+* SQL Saturday Follow-up
+  * Submit your talks
+  * Need to come up with a game potentially
+* Workshops
+  * Forest - Destructuring
+    * April 11th - 11 AM
+    * Interactive
+* Training
+  * React training
+  * October 18th / 19th - Tentatively
+  * Tech Park
+  * Partnering with other firms potentially
+* Starter Kit
+  * Baseline for new projects
+  * Going to review / contribute as a group
+  * https://github.com/turner-industries/web-starter-kit
+
 ## 3-23-17
 
 * Standards
