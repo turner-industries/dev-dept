@@ -1,5 +1,24 @@
 # Bi-Weekly Stand up Meeting
 
+## 4-20-17
+
+* Architectural Discussion
+  * Validation vs Business Rules (thinking about them differently and database impacts)
+* SQL Saturday Follow-up
+  * Submit your talks
+  * Need to come up with a game potentially
+* Workshops
+  * Feedback on the last format (involvement, dedicated slices)
+  * Future ideas (Creating and Validating Jwt Tokens, Asp.Net Core Versioning, React unit testing)
+* Code Reviews
+  * Organization/Advance notice needed?
+  * Format challenges
+* Training
+  * React training (Envoc can only send 2 - talking to Sparkhound - followup with Ryan)
+  * October 18th / 19th - Tentatively
+  * Tech Park
+  * Partnering with other firms potentially
+
 ## 4-6-17
 
 * SQL Saturday Follow-up
