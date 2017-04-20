@@ -4,15 +4,36 @@
 
 * Architectural Discussion
   * Validation vs Business Rules (thinking about them differently and database impacts)
+    * Different solutions:
+      * No context in validators
+        * Keeps context access consitent
+        * Pollutes handler unnecessarily
+      * Only entities used in handlers, rest in validators (foreign keys, etc.)
+        * Inconsistent context access
+        * Keeps handlers smaller
+      * Duplicate queries in validators and handlers
+        * Keeps validation all in one place
+        * Can cause performance issues
+     * Going to try only entities used in handlers, rest in validators
 * SQL Saturday Follow-up
   * Submit your talks
   * Need to come up with a game potentially
 * Workshops
   * Feedback on the last format (involvement, dedicated slices)
+    * Thumbs up
+    * Test approach was good, more tripping up potentially, abstract before jumping in
+    * What are the practical uses of this?
   * Future ideas (Creating and Validating Jwt Tokens, Asp.Net Core Versioning, React unit testing)
+    * C# 7 - Matthew
 * Code Reviews
-  * Organization/Advance notice needed?
-  * Format challenges
+  * Bi-Weekly
+    * Matthew will be in charge of this
+    * Organization/Advance notice needed?
+    * Format challenges
+      * Stay on track
+      * Lots of feedback at the same time
+  * Pull Requests
+    * Cross-team reviews
 * Training
   * React training (Envoc can only send 2 - talking to Sparkhound - followup with Ryan)
   * October 18th / 19th - Tentatively
