@@ -1,12 +1,31 @@
 # Bi-Weekly Stand up Meeting
 
+## 5-4-17
+
+* SQL Saturday Update
+  * Matthew is almost ready
+    * Intro to parallel programming
+  * Forest is waiting on Brandon's outline
+  * Justin has submitted - React Native
+* Upcoming Events
+  * .NET User Group
+    * Brandon - Intro to .NET core
+    * Next Wednesday after work
+  * React Training
+    * More potential attendees
+    * Justin proposed potentially attending another React Training session solo
+      * This would allow him to give that training himself around July or Aug
+      * We can have the React Training guys give the advanced training
+  * Next Workshop - Matthew - C# 7
+    * Sending out invite soon
+
 ## 4-20-17
 
 * Architectural Discussion
   * Validation vs Business Rules (thinking about them differently and database impacts)
     * Different solutions:
       * No context in validators
-        * Keeps context access consitent
+        * Keeps context access consistent
         * Pollutes handler unnecessarily
       * Only entities used in handlers, rest in validators (foreign keys, etc.)
         * Inconsistent context access
