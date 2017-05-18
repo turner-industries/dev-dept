@@ -1,5 +1,25 @@
 # Bi-Weekly Stand up Meeting
 
+## 5-18-17
+
+* SQL Saturday Update
+  * Forest - 
+  * Matthew - 
+* Upcoming Events
+  * Matthew will be presenting C# 7 - Wed, May 31st
+  * React Native workshop update
+* Date Handling
+  * Server should always use DateTime.UtcNow
+  * Dates should be returned to the client and parsed to local time in JS
+* Mediator Pipeline Testing
+  * Discuss handler / validation testing
+* String Enums
+  * Example of validation
+  * SQL constraints?
+* Build Server
+  * Request to up CPU - integration tests on PRs
+* CraftTrax NPM
+
 ## 5-4-17
 
 * SQL Saturday Update
