@@ -1,5 +1,30 @@
 # Bi-Weekly Stand up Meeting
 
+## 5-18-17
+
+* SQL Saturday Update
+  * Forest - ASP.NET Core
+  * Matthew - Submitted - Parallel Programming
+* Upcoming Events
+  * Matthew will be presenting C# 7 - Wed, May 31st
+  * React training update - October 18th or 19th
+    * Brandon to ask his guys if they're still interested
+* Date Handling
+  * Server should always use DateTime.UtcNow
+  * Dates should be returned to the client and parsed to local time in JS
+* String Enums
+  * Example of validation
+    * Right now just validating input with `[Enum].List.Contains`
+  * SQL constraints?
+    * Future projects - look into this
+* Build Server
+  * Request to up CPU - integration tests on PRs
+  * We'll monitor usage when builds are happening to see what we can do
+* CraftTrax NPM
+  * Justin estimates 1-4 hours
+* Wallaby Licenses
+  * All of them expire on the 23rd
+
 ## 5-4-17
 
 * SQL Saturday Update
