@@ -19,6 +19,8 @@
 * Build Server
   * Request to up CPU - integration tests on PRs
 * CraftTrax NPM
+* Wallaby Licenses
+  * Brandon's expires on the 23rd
 
 ## 5-4-17
 
