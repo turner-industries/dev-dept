@@ -1,5 +1,26 @@
 # Bi-Weekly Stand up Meeting
 
+## 6-1-17
+* SQL Saturday Update
+  * Forest is submitting today
+* Code Review
+  * WinTake is up next
+  * Jay is now rolled in to CraftTrax
+* Lunch and Learns
+  * C# 7 - Matthew
+    * Great overview
+    * Need to get GitHub URL and add here
+  * Git - Jay
+    * After CraftTrax release
+  * Aurelia / Angular
+    * Maybe early 2018
+* Training may not happen this year on React
+* Forest is working on Wallaby licenses
+* API Routes
+  * Which way do we want to go?
+  * Saving this for a new project
+* React Native and Mobile Center are great
+
 ## 5-18-17
 
 * SQL Saturday Update
