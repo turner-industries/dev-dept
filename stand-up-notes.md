@@ -1,5 +1,21 @@
 # Bi-Weekly Stand up Meeting
 
+## 6-15-17
+* SQL Saturday Update
+  * Forest will not be speaking
+* Forest wants to start formulating a 5 year plan
+  * Core / Mediator / React, etc.
+  * Dev-wide seminars on tech stacks
+  * Posters / marketing materials
+  * More training
+* Found some good technical book notes:
+  * https://github.com/mgp/book-notes
+* Wallaby licenses were renewed
+  * Forest to send them out
+* WinTake is going to be focusing on mediator refactor more
+  * Going to be flowcharting some business logic
+* Front-end tests are controversial.
+
 ## 6-1-17
 * SQL Saturday Update
   * Forest is submitting today
