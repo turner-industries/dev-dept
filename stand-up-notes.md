@@ -1,5 +1,19 @@
 # Bi-Weekly Stand up Meeting
 
+## 7-13-17
+* SQL Saturday is in 2 weeks
+  * Going to have overviews of the presentations next standup
+* Hotfix workflow
+  * Separate hotfix environment
+  * Hotfixes with migrations have to be manually fixed
+    * Person who did hotfix's responsibility to redo migrations in develop / notify others
+  * Going with `major.minor.patch.build` for versioning
+    * Look in to updating minor version in VSTS through Octopus when pushing to production automatically
+    * Moving to a new major version would be manual
+  * Develop is the new master branch for PRs
+  * Potential `Release` branch that would get pushed to at end of sprint
+  * To be continued
+
 ## 6-15-17
 * SQL Saturday Update
   * Forest will not be speaking
