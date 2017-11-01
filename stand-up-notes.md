@@ -1,5 +1,9 @@
 # Bi-Weekly Stand up Meeting
 
+## Next meeting
+* Testing
+  * Stubs/Fakes vs Mocks
+
 ## 7-13-17
 * SQL Saturday is in 2 weeks
   * Going to have overviews of the presentations next standup
