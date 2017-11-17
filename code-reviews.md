@@ -6,3 +6,4 @@
 * Comment authors must resolve their own comments
 * Pull requests should be completed by the author, not the reviewer
 * Potentially keep checklists on what you and others are commonly omitting to check against
+* If PR is type "Defect", attempt to link to PR where introduced
